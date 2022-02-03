@@ -1,0 +1,213 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		221BBF8A16F7D5DE0005C10D /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 221BBF8916F7D5DE0005C10D /* main.cpp */; };
+		221BBF8C16F7D5DE0005C10D /* Problem_0204_Generalised_HammingNumbers.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = 221BBF8B16F7D5DE0005C10D /* Problem_0204_Generalised_HammingNumbers.1 */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		221BBF8316F7D5DE0005C10D /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+				221BBF8C16F7D5DE0005C10D /* Problem_0204_Generalised_HammingNumbers.1 in CopyFiles */,
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		221BBF8516F7D5DE0005C10D /* Problem_0204_Generalised_HammingNumbers */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Problem_0204_Generalised_HammingNumbers; sourceTree = BUILT_PRODUCTS_DIR; };
+		221BBF8916F7D5DE0005C10D /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		221BBF8B16F7D5DE0005C10D /* Problem_0204_Generalised_HammingNumbers.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = Problem_0204_Generalised_HammingNumbers.1; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		221BBF8216F7D5DE0005C10D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		221BBF7A16F7D5DE0005C10D = {
+			isa = PBXGroup;
+			children = (
+				221BBF8816F7D5DE0005C10D /* Problem_0204_Generalised_HammingNumbers */,
+				221BBF8616F7D5DE0005C10D /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		221BBF8616F7D5DE0005C10D /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				221BBF8516F7D5DE0005C10D /* Problem_0204_Generalised_HammingNumbers */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		221BBF8816F7D5DE0005C10D /* Problem_0204_Generalised_HammingNumbers */ = {
+			isa = PBXGroup;
+			children = (
+				221BBF8916F7D5DE0005C10D /* main.cpp */,
+				221BBF8B16F7D5DE0005C10D /* Problem_0204_Generalised_HammingNumbers.1 */,
+			);
+			path = Problem_0204_Generalised_HammingNumbers;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		221BBF8416F7D5DE0005C10D /* Problem_0204_Generalised_HammingNumbers */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 221BBF8F16F7D5DE0005C10D /* Build configuration list for PBXNativeTarget "Problem_0204_Generalised_HammingNumbers" */;
+			buildPhases = (
+				221BBF8116F7D5DE0005C10D /* Sources */,
+				221BBF8216F7D5DE0005C10D /* Frameworks */,
+				221BBF8316F7D5DE0005C10D /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Problem_0204_Generalised_HammingNumbers;
+			productName = Problem_0204_Generalised_HammingNumbers;
+			productReference = 221BBF8516F7D5DE0005C10D /* Problem_0204_Generalised_HammingNumbers */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		221BBF7C16F7D5DE0005C10D /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0440;
+				ORGANIZATIONNAME = "Stephen Weber";
+			};
+			buildConfigurationList = 221BBF7F16F7D5DE0005C10D /* Build configuration list for PBXProject "Problem_0204_Generalised_HammingNumbers" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 221BBF7A16F7D5DE0005C10D;
+			productRefGroup = 221BBF8616F7D5DE0005C10D /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				221BBF8416F7D5DE0005C10D /* Problem_0204_Generalised_HammingNumbers */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		221BBF8116F7D5DE0005C10D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				221BBF8A16F7D5DE0005C10D /* main.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		221BBF8D16F7D5DE0005C10D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.7;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		221BBF8E16F7D5DE0005C10D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.7;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		221BBF9016F7D5DE0005C10D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		221BBF9116F7D5DE0005C10D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		221BBF7F16F7D5DE0005C10D /* Build configuration list for PBXProject "Problem_0204_Generalised_HammingNumbers" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				221BBF8D16F7D5DE0005C10D /* Debug */,
+				221BBF8E16F7D5DE0005C10D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		221BBF8F16F7D5DE0005C10D /* Build configuration list for PBXNativeTarget "Problem_0204_Generalised_HammingNumbers" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				221BBF9016F7D5DE0005C10D /* Debug */,
+				221BBF9116F7D5DE0005C10D /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 221BBF7C16F7D5DE0005C10D /* Project object */;
+}

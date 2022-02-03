@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1362178710 source:c:\users\sweber\desktop\code\problem0004_largest_palindrome_product\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<algorithm>
+

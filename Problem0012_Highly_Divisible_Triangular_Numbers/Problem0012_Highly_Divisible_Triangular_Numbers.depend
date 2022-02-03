@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1362709261 source:c:\users\sweber\desktop\code\problem0012_highly_divisible_triangular_numbers\main.cpp
+	<iostream>
+	<cmath>
+	<vector>
+

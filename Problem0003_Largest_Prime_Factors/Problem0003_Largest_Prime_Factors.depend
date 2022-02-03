@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1362102264 source:c:\users\sweber\desktop\code\problem0003_largest_prime_factors\main.cpp
+	<iostream>
+	<vector>
+

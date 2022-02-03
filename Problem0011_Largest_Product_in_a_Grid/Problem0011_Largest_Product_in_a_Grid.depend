@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1362708286 source:c:\users\sweber\desktop\code\problem0011_largest_product_in_a_grid\main.cpp
+	<iostream>
+	<vector>
+

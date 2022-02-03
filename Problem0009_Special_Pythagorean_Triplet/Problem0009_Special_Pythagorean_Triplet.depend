@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1362622624 source:c:\users\sweber\desktop\code\problem0009_special_pythagorean_triplet\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
