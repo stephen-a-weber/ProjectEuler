@@ -1,0 +1,217 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		58EDABDF16B5E07200BD1732 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 58EDABDE16B5E07200BD1732 /* main.cpp */; };
+		58EDABE116B5E07200BD1732 /* triangular_pentagonal_hexagonal_euler_45.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = 58EDABE016B5E07200BD1732 /* triangular_pentagonal_hexagonal_euler_45.1 */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		58EDABD816B5E07200BD1732 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+				58EDABE116B5E07200BD1732 /* triangular_pentagonal_hexagonal_euler_45.1 in CopyFiles */,
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		58EDABDA16B5E07200BD1732 /* triangular_pentagonal_hexagonal_euler_45 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = triangular_pentagonal_hexagonal_euler_45; sourceTree = BUILT_PRODUCTS_DIR; };
+		58EDABDE16B5E07200BD1732 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		58EDABE016B5E07200BD1732 /* triangular_pentagonal_hexagonal_euler_45.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = triangular_pentagonal_hexagonal_euler_45.1; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		58EDABD716B5E07200BD1732 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		58EDABCF16B5E07200BD1732 = {
+			isa = PBXGroup;
+			children = (
+				58EDABDD16B5E07200BD1732 /* triangular_pentagonal_hexagonal_euler_45 */,
+				58EDABDB16B5E07200BD1732 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		58EDABDB16B5E07200BD1732 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				58EDABDA16B5E07200BD1732 /* triangular_pentagonal_hexagonal_euler_45 */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		58EDABDD16B5E07200BD1732 /* triangular_pentagonal_hexagonal_euler_45 */ = {
+			isa = PBXGroup;
+			children = (
+				58EDABDE16B5E07200BD1732 /* main.cpp */,
+				58EDABE016B5E07200BD1732 /* triangular_pentagonal_hexagonal_euler_45.1 */,
+			);
+			path = triangular_pentagonal_hexagonal_euler_45;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		58EDABD916B5E07200BD1732 /* triangular_pentagonal_hexagonal_euler_45 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 58EDABE416B5E07200BD1732 /* Build configuration list for PBXNativeTarget "triangular_pentagonal_hexagonal_euler_45" */;
+			buildPhases = (
+				58EDABD616B5E07200BD1732 /* Sources */,
+				58EDABD716B5E07200BD1732 /* Frameworks */,
+				58EDABD816B5E07200BD1732 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = triangular_pentagonal_hexagonal_euler_45;
+			productName = triangular_pentagonal_hexagonal_euler_45;
+			productReference = 58EDABDA16B5E07200BD1732 /* triangular_pentagonal_hexagonal_euler_45 */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		58EDABD116B5E07200BD1732 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0450;
+				ORGANIZATIONNAME = Isadmin;
+			};
+			buildConfigurationList = 58EDABD416B5E07200BD1732 /* Build configuration list for PBXProject "triangular_pentagonal_hexagonal_euler_45" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 58EDABCF16B5E07200BD1732;
+			productRefGroup = 58EDABDB16B5E07200BD1732 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				58EDABD916B5E07200BD1732 /* triangular_pentagonal_hexagonal_euler_45 */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		58EDABD616B5E07200BD1732 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				58EDABDF16B5E07200BD1732 /* main.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		58EDABE216B5E07200BD1732 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.7;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		58EDABE316B5E07200BD1732 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_64_BIT)";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_ENABLE_OBJC_EXCEPTIONS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.7;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		58EDABE516B5E07200BD1732 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		58EDABE616B5E07200BD1732 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		58EDABD416B5E07200BD1732 /* Build configuration list for PBXProject "triangular_pentagonal_hexagonal_euler_45" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				58EDABE216B5E07200BD1732 /* Debug */,
+				58EDABE316B5E07200BD1732 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		58EDABE416B5E07200BD1732 /* Build configuration list for PBXNativeTarget "triangular_pentagonal_hexagonal_euler_45" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				58EDABE516B5E07200BD1732 /* Debug */,
+				58EDABE616B5E07200BD1732 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 58EDABD116B5E07200BD1732 /* Project object */;
+}

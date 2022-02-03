@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1360292853 source:c:\users\sweber\desktop\thecode\monopoly\monopoly.cpp
+	"monopoly.h"
+
+1360292755 c:\users\sweber\desktop\thecode\monopoly\monopoly.h
+	<vector>
+	<utility>
+	<algorithm>
+	<ctime>
+	<iostream>
+
+1360292792 source:c:\users\sweber\desktop\thecode\monopoly\main.cpp
+	<iostream>
+	"monopoly.h"
+
